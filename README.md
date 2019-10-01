@@ -37,6 +37,8 @@ C:\Users\IME05\Desktop\PatternRecognition\Quiz>git push origin solution
 C:\Users\IME05\Desktop\PatternRecognition\Quiz\Quiz>git switch master
 
 C:\Users\IME05\Desktop\PatternRecognition\Quiz\Quiz>git merge # 브랜치 병합
-```
+
 
 C:\Users\IME05\Desktop\PatternRecognition\Quiz\Quiz>git push -f # 푸시
+```
+
